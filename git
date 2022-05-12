@@ -9,5 +9,5 @@
 # git commit -m "task - commit executado"
 
 
-# git log
+# git log - git log --oneline - git log -p
 
